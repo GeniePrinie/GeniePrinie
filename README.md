@@ -8,6 +8,8 @@ I'm Genie, a frontend developer student from Colorado, but currently living in O
 - 👨‍💻 HTML, CSS, JavaScript
 - :crystal_ball: WordPress, WordPress REST API
 - :candy: AdobeXD, Figma
+- 🥾 Bootstrap
+- 💅 SASS
 
 ## Fun fact
 - :heart_eyes_cat: I'm a cat slave.
