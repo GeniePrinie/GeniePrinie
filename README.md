@@ -10,6 +10,7 @@ I'm Genie, a frontend developer student from Colorado, but currently living in O
 - :candy: AdobeXD, Figma
 - 🥾 Bootstrap
 - 💅 SASS
+- 🧪 Cypress
 
 ## Fun fact
 - :heart_eyes_cat: I'm a cat slave.
