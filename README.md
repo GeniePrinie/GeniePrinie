@@ -11,6 +11,7 @@ I'm Genie, a frontend developer student from Colorado, but currently living in O
 - 🥾 Bootstrap
 - 💅 SASS
 - 🧪 Cypress
+- 🧬 React
 
 ## Fun fact
 - :heart_eyes_cat: I'm a cat slave.
