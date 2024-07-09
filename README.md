@@ -5,13 +5,14 @@ I'm Genie, a frontend developer from Colorado, but currently living in Oslo.
 ![catgif](https://user-images.githubusercontent.com/100139381/206691344-00b4feff-1d16-451c-8cfb-fd5fcebdcbef.gif)
 
 ## Skills
-- 👨‍💻 HTML, CSS, JavaScript
+- 👨‍💻 HTML, CSS, JavaScript, TypeScript
 - :crystal_ball: WordPress, WordPress REST API
 - :candy: AdobeXD, Figma
 - 🥾 Bootstrap
 - 💅 SASS
 - 🧪 Cypress
 - 🧬 React
+- 💡 MUI
 
 ## Fun fact
 - :heart_eyes_cat: I'm a cat slave.
