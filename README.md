@@ -13,15 +13,17 @@ I'm Genie, a frontend developer from Colorado, but currently living in Oslo.
 - 🧪 Cypress
 - 🧬 React
 - 💡 MUI
+- 🌪️ Tailwind
 
 ## Fun fact
 - :heart_eyes_cat: I'm a cat slave.
 - :tea: I love matcha.
 - :mount_fuji: I climb.
+- 🧶 I knit.
 
 
 ## Contact
-- [My Linkedin page](https://www.linkedin.com/in/genie-prinyanut-ab3441257/)
+- [My Linkedin page](https://www.linkedin.com/in/genieprinyanut)
 
 - [My Website](https://genieprinyanut.netlify.app/)
 
