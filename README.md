@@ -14,6 +14,7 @@ I'm Genie, a frontend developer from Colorado, but currently living in Oslo.
 - 🧬 React
 - 💡 MUI
 - 🌪️ Tailwind
+- 🧠 Sanity
 
 ## Fun fact
 - :heart_eyes_cat: I'm a cat slave.
